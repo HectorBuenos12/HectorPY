@@ -2,7 +2,7 @@
 Practica Resuelta de Ejemplo
 
 Panda tiene 12 budines y quiere repartirlos en partes iguales entre 3 grupos diferentes.
-¿Qué operación matemática debe usar para saber cuántos budines comerá el panda en cada fiesta?
+¿Qué operación matemática debe usar para saber cuántos budines dará Panda en cada grupo?
 """
 
 budines = 12
@@ -37,5 +37,6 @@ Un peluche de Don Quixote: 9999 dolares
 Con estos datos y tomando en cuenta que el valor de cada producto es por unidad
 calcular la cantidad de dolares que se gasta a la hora de comprar algun producto
 ya sea una unidad o más.
+
 
 """
